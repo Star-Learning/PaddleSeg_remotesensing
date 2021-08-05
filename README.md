@@ -20,6 +20,6 @@
 -飞桨常规赛：遥感影像地块分割 - 7月第5名方案 .ipynb
 ```
 ## 使用方式
-在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2224724)
+在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2224724)。
 顺序执行本项目即可完成数据解压和加载、模型训练和验证
 
