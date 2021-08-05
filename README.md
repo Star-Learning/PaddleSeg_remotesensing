@@ -11,7 +11,7 @@
 （2）参考代码：
 [10分钟上手PaddleSeg](https://aistudio.baidu.com/aistudio/projectdetail/1672610?channelType=0&channel=0)
 
-（3）代码内容说明如下
+（3）代码内容说明见notebook
 
 注：由于当初想把这个比赛方案作为公开项目baseline，所以提交结果后就没有保留模型参数，项目中暂存结果文件均为示例数据和模型
 ## 项目结构
