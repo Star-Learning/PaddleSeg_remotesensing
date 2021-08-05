@@ -4,8 +4,11 @@
 利用PaddleSeg套件完成遥感影像地块分割Baseline
 
 （1）模型构建思路及调优过程：
+
  a. 尝试了Unet、Attention Unet、SETR模型，最后发现Attention Unet精度可以达到最好精度0.51，SETR训练多个epoch后只有0.4+，Unet最低
+ 
  b. batch_size依次尝试2、4、8、16... 根据显存能力尽量选取最高的batch_size
+ 
  c. 训练集数据采用随机翻转进行增强
 
 （2）参考代码：
