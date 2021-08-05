@@ -16,11 +16,10 @@
 注：由于当初想把这个比赛方案作为公开项目baseline，所以提交结果后就没有保留模型参数，项目中暂存结果文件均为示例数据和模型
 ## 项目结构
 ```
--|data
--|work
 -README.MD
--xxx.ipynb
+-飞桨常规赛：遥感影像地块分割 - 7月第5名方案 .ipynb
 ```
 ## 使用方式
 在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/2224724)
+顺序执行本项目即可完成数据解压和加载、模型训练和验证
 
